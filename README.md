@@ -1,1 +1,3 @@
-Alpine docker base image
+## Alpine Docker Base Image
+    
+    FROM aibar/alpine-base
